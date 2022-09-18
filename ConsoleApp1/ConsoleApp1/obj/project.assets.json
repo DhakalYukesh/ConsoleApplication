@@ -58,11 +58,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Islington Classworks and stuffs\\Academic Projects\\Sem - 5\\Application Development\\Week-0\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "D:\\Islington Classworks and stuffs\\Academic Projects\\Sem - 5\\Application Development\\Week-0\\ConsoleApplication\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "D:\\Islington Classworks and stuffs\\Academic Projects\\Sem - 5\\Application Development\\Week-0\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "D:\\Islington Classworks and stuffs\\Academic Projects\\Sem - 5\\Application Development\\Week-0\\ConsoleApplication\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\Islington Classworks and stuffs\\Academic Projects\\Sem - 5\\Application Development\\Week-0\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "D:\\Islington Classworks and stuffs\\Academic Projects\\Sem - 5\\Application Development\\Week-0\\ConsoleApplication\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
