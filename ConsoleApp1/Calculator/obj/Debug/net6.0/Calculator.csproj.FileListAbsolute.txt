@@ -1,0 +1,15 @@
+D:\Islington Classworks and stuffs\Academic Projects\Sem - 5\Application Development\Week-0\ConsoleApplication\ConsoleApp1\Calculator\bin\Debug\net6.0\Calculator.exe
+D:\Islington Classworks and stuffs\Academic Projects\Sem - 5\Application Development\Week-0\ConsoleApplication\ConsoleApp1\Calculator\bin\Debug\net6.0\Calculator.deps.json
+D:\Islington Classworks and stuffs\Academic Projects\Sem - 5\Application Development\Week-0\ConsoleApplication\ConsoleApp1\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+D:\Islington Classworks and stuffs\Academic Projects\Sem - 5\Application Development\Week-0\ConsoleApplication\ConsoleApp1\Calculator\bin\Debug\net6.0\Calculator.dll
+D:\Islington Classworks and stuffs\Academic Projects\Sem - 5\Application Development\Week-0\ConsoleApplication\ConsoleApp1\Calculator\bin\Debug\net6.0\Calculator.pdb
+D:\Islington Classworks and stuffs\Academic Projects\Sem - 5\Application Development\Week-0\ConsoleApplication\ConsoleApp1\Calculator\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+D:\Islington Classworks and stuffs\Academic Projects\Sem - 5\Application Development\Week-0\ConsoleApplication\ConsoleApp1\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Islington Classworks and stuffs\Academic Projects\Sem - 5\Application Development\Week-0\ConsoleApplication\ConsoleApp1\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+D:\Islington Classworks and stuffs\Academic Projects\Sem - 5\Application Development\Week-0\ConsoleApplication\ConsoleApp1\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+D:\Islington Classworks and stuffs\Academic Projects\Sem - 5\Application Development\Week-0\ConsoleApplication\ConsoleApp1\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+D:\Islington Classworks and stuffs\Academic Projects\Sem - 5\Application Development\Week-0\ConsoleApplication\ConsoleApp1\Calculator\obj\Debug\net6.0\Calculator.dll
+D:\Islington Classworks and stuffs\Academic Projects\Sem - 5\Application Development\Week-0\ConsoleApplication\ConsoleApp1\Calculator\obj\Debug\net6.0\refint\Calculator.dll
+D:\Islington Classworks and stuffs\Academic Projects\Sem - 5\Application Development\Week-0\ConsoleApplication\ConsoleApp1\Calculator\obj\Debug\net6.0\Calculator.pdb
+D:\Islington Classworks and stuffs\Academic Projects\Sem - 5\Application Development\Week-0\ConsoleApplication\ConsoleApp1\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
+D:\Islington Classworks and stuffs\Academic Projects\Sem - 5\Application Development\Week-0\ConsoleApplication\ConsoleApp1\Calculator\obj\Debug\net6.0\ref\Calculator.dll
